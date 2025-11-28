@@ -1,0 +1,11 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/connection-details/route.js")
+R.c("server/chunks/[root-of-the-server]__073880ee._.js")
+R.c("server/chunks/cb8b0_next_39d4ff09._.js")
+R.c("server/chunks/d715d_@bufbuild_protobuf_dist_esm_ceb7b8f1._.js")
+R.c("server/chunks/bfe0e_@livekit_protocol_dist_index_mjs_4824b2d8._.js")
+R.c("server/chunks/cc590_jose_dist_node_esm_d562180e._.js")
+R.c("server/chunks/94e3d_livekit-server-sdk_dist_912ef0f0._.js")
+R.c("server/chunks/[root-of-the-server]__1267782f._.js")
+R.m("[project]/OneDrive/Desktop/Bank Fraud Alert Ai/frontend/.next-internal/server/app/api/connection-details/route/actions.js [app-rsc] (server actions loader, ecmascript)")
+R.m("[project]/OneDrive/Desktop/Bank Fraud Alert Ai/frontend/node_modules/.pnpm/next@15.5.2_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/OneDrive/Desktop/Bank Fraud Alert Ai/frontend/app/api/connection-details/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/OneDrive/Desktop/Bank Fraud Alert Ai/frontend/node_modules/.pnpm/next@15.5.2_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/OneDrive/Desktop/Bank Fraud Alert Ai/frontend/app/api/connection-details/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

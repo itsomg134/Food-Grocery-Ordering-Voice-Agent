@@ -1,0 +1,31 @@
+{
+  "pages": {
+    "/(app)/page": [
+      "static/chunks/cb8b0_next_dist_f493e6ab._.js",
+      "static/chunks/OneDrive_Desktop_Bank Fraud Alert Ai_frontend_app_favicon_ico_mjs_65adc793._.js",
+      "static/chunks/[root-of-the-server]__d4688133._.css",
+      "static/chunks/34a68__pnpm_7e7138cb._.js",
+      "static/chunks/OneDrive_Desktop_Bank Fraud Alert Ai_frontend_2df18696._.js",
+      "static/chunks/OneDrive_Desktop_Bank Fraud Alert Ai_frontend_app_layout_tsx_c8b81429._.js",
+      "static/chunks/cb8b0_next_dist_client_components_builtin_global-error_c33bac8b.js",
+      "static/chunks/OneDrive_Desktop_Bank Fraud Alert Ai_frontend_4144be47._.js",
+      "static/chunks/91bd3_livekit-client_dist_livekit-client_esm_mjs_4d9342cb._.js",
+      "static/chunks/b9d81_@livekit_components-react_dist_5b44e48c._.js",
+      "static/chunks/69fa2_@phosphor-icons_react_dist_cec0d41e._.js",
+      "static/chunks/be9c7_framer-motion_dist_es_fa58875b._.js",
+      "static/chunks/2bb40_motion-dom_dist_es_58a49203._.js",
+      "static/chunks/c6e1a_@radix-ui_react-select_dist_index_mjs_5e07fd59._.js",
+      "static/chunks/34a68__pnpm_bd844fd1._.js",
+      "static/chunks/OneDrive_Desktop_Bank Fraud Alert Ai_frontend_app_(app)_page_tsx_c33bac8b._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_45c54352._.js",
+      "static/chunks/cb8b0_next_dist_compiled_react-dom_cf03a046._.js",
+      "static/chunks/cb8b0_next_dist_compiled_next-devtools_index_e21fbefc.js",
+      "static/chunks/cb8b0_next_dist_compiled_ad578e12._.js",
+      "static/chunks/cb8b0_next_dist_client_b9d99403._.js",
+      "static/chunks/cb8b0_next_dist_7a9dcac6._.js",
+      "static/chunks/cbe4c_@swc_helpers_cjs_c5d2017c._.js",
+      "static/chunks/OneDrive_Desktop_Bank Fraud Alert Ai_frontend_a0ff3932._.js",
+      "static/chunks/turbopack-OneDrive_Desktop_Bank Fraud Alert Ai_frontend_5ed175f0._.js"
+    ]
+  }
+}
