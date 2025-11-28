@@ -36,6 +36,10 @@ Perfect for building **Swiggy / Zomato / Zepto-style voice ordering** workflows.
 
 ---
 
+
+https://github.com/user-attachments/assets/6c717e07-556b-48d4-880f-4fee58c24753
+
+
 ## 🎯 Primary Goal (MVP)
 
 ### **Food & Grocery Ordering with Cart → Order JSON**
@@ -219,8 +223,7 @@ python src/agent.py
 
 ## 🎥 Demo Video
 
-📎 *Add your link here*
-(Example placeholder)
+📎 https://drive.google.com/file/d/1IKyFaaXQrR7d-tmofOyvjm9-vVBij3i_/view?usp=drive_link
 
 ---
 
